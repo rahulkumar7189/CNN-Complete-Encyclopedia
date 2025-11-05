@@ -4,7 +4,7 @@
 
 ---
 
-## Table of Contents
+## Table of Contents 
 
 1. [Introduction: Understanding CNNs](#introduction)
 2. [The History and Evolution of CNNs](#history)
