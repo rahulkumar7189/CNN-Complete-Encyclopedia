@@ -2,6 +2,7 @@
 
 *A Comprehensive Guide to Convolutional Neural Networks for Everyone*
 
+
 ---
 
 ## Table of Contents 
