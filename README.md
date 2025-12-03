@@ -4,7 +4,6 @@
 
 ---
 
-
 ## Table of Contents 
 
 1. [Introduction: Understanding CNNs](#introduction)
